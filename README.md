@@ -5,6 +5,6 @@ Themes designed for the Wardrobe CMS system. Features of the themes and installa
 
 **Themes**
 
-* [NewYark](https://github.com/beardedbrew/Wardrobe-Themes/tree/master/themes/newyark)
+* [NewYark](https://github.com/beardedbrew/Wardrobe-Themes/wiki/Themes---NewYark)
 
 Questions or comments? Hit is up on Twitter [@tindrlabs](https://twitter.com/tindrlabs) or visit [TindrLabs](http://TindrLabs.com)
