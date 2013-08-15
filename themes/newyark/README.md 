@@ -8,7 +8,7 @@ A theme inspired by the tough, strong, yet elegant style of New York, New York.
 
 * Reponsive design for mobile and tablets
 
-* [Tags Page](http://http://tindrlabs.dev/tags)
+* Tags Page /tags
 
 **Installation**
 
@@ -18,4 +18,4 @@ A theme inspired by the tough, strong, yet elegant style of New York, New York.
 
 * Goto /app/config/wardrobe.php and change the theme setting to 'theme' => 'newyark'
 
-Hope you enjoy the theme. Questions or comments? Hit us up on Twitter [@tinderlabs](https://twitter.com/tindrlabs)
+Hope you enjoy the theme. Questions or comments? Hit us up on Twitter [@tindrlabs](https://twitter.com/tindrlabs)
