@@ -1,3 +1,4 @@
+![TindrLabs](http://tindrlabs.com/img/logo.png)
 Wardrobe CMS Themes from TindrLabs.com
 ===============
 
