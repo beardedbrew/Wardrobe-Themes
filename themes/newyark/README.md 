@@ -1,0 +1,21 @@
+Welcome to NewYark!
+
+A theme inspired by the tough, strong, yet elegant style of New York, New York.
+
+**Includes**
+
+* [Twitter Bootstrap 3.0 RC1](http://getbootstrap.com/)
+
+* Reponsive design for mobile and tablets
+
+* [Tags Page](http://http://tindrlabs.dev/tags)
+
+**Installation**
+
+* Download the themes zip or pull from Github
+
+* Copy the NewYark folder over to the /public/themes directory of your WardrobeCMS site
+
+* Goto /app/config/wardrobe.php and change the theme setting to 'theme' => 'newyark'
+
+Hope you enjoy the theme. Questions or comments? Hit us up on Twitter [@tinderlabs](https://twitter.com/tindrlabs)

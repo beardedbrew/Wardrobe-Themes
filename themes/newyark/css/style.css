@@ -1,0 +1,290 @@
+body{
+	background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6{}
+
+/* 
+	Header Section 
+*/
+header{
+	background-image: url(../img/asfalt.png);
+	background-color: #000;
+	padding:5px 0 5px 0;
+}
+header h1{
+	color:#fff;
+	font-size:8em;
+	font-weight: 100;
+}
+header h1 a, header h1 a:hover{
+	color:#fff;
+	text-decoration: none;
+}
+
+/* 
+	Navigation 
+*/
+nav.site-navigation{
+	margin-top: 25px;
+}
+nav.site-navigation li{
+	background-color: #000;
+	border-radius: 14px;
+	color:#fff;
+	margin:10px 15px 20px 0;
+	padding:10px 15px;
+}
+nav.site-navigation li:hover{
+	background-color:#2C3033;
+}
+nav.site-navigation li a{
+	color:#fff;
+}
+nav.site-navigation li a:hover{
+	text-decoration: none;
+}
+
+/* 
+	Posts Stream and Post Page 
+*/
+.post-feed{
+	margin-top: 20px;
+}
+.post{
+	margin-bottom: 45px;
+}
+.title{
+	color:#000;
+	font-weight: bold;
+	margin-top: 0;
+}
+.title a{
+	color:#000;
+}
+.content{
+	padding:20px 0;
+}
+.content p{
+	font-size: 20px;
+	line-height: 1.5;
+}
+.tags{
+	margin:0;
+	padding:0;
+}
+.tags li{
+	background-color: #000;
+	border-radius: 8px;
+	color:#000;
+	margin: 0 5px 0 0;
+	padding:1px 6px;
+}
+.tags li a, .tags li a:hover{
+	color:#fff;
+	text-decoration: none;
+}
+
+/*
+	Footer Section
+ */
+footer{
+	margin:50px 0;
+}
+
+/* 404 Page */
+.four-o-four h1{
+	font-size: 2.500em;
+}
+.four-o-four a{
+	font-size:2.143em;
+}
+
+/* 
+	Code Styles 
+*/
+pre code {
+  display: block;
+  padding: .5em;
+  color: #000;
+  background: #f8f8ff;
+  font-family: Inconsolata,Monaco,"Lucida Console",monospace;
+  font-size: 13px;
+  line-height: 23px;
+  margin: 0;
+  white-space: pre;
+}
+pre {
+  border: 1px solid #d0d0d0;
+  color: #002166;
+  display: block;
+  margin: 14px 0 14px 0;
+  padding: 0;
+  background: none repeat scroll 0 0 #EEE;
+  border: 1px solid #DDD;
+  clear: both;
+  overflow: auto;
+}
+
+pre code {
+  display: block; padding: 0.5em;
+  color: #000;
+  background: #f8f8ff
+}
+
+pre .comment,
+pre .template_comment,
+pre .diff .header,
+pre .javadoc {
+  color: #998;
+  font-style: italic
+}
+
+pre .keyword,
+pre .css .rule .keyword,
+pre .winutils,
+pre .javascript .title,
+pre .lisp .title,
+pre .subst,
+pre .request,
+pre .status {
+  color: #000;
+  font-weight: bold
+}
+
+pre .number,
+pre .hexcolor {
+  color: #40a070
+}
+
+pre .string,
+pre .tag .value,
+pre .phpdoc,
+pre .tex .formula {
+  color: #d14
+}
+
+pre .title,
+pre .id {
+  color: #900;
+  font-weight: bold
+}
+
+pre .javascript .title,
+pre .lisp .title,
+pre .subst {
+  font-weight: normal
+}
+
+pre .class .title,
+pre .haskell .type,
+pre .vhdl .literal,
+pre .tex .command {
+  color: #458;
+  font-weight: bold
+}
+
+pre .tag,
+pre .tag .title,
+pre .rules .property,
+pre .django .tag .keyword {
+  color: #000080;
+  font-weight: normal
+}
+
+pre .attribute,
+pre .variable,
+pre .instancevar,
+pre .lisp .body {
+  color: #008080
+}
+
+pre .regexp {
+  color: #009926
+}
+
+pre .class {
+  color: #458;
+  font-weight: bold
+}
+
+pre .symbol,
+pre .ruby .symbol .string,
+pre .ruby .symbol .keyword,
+pre .ruby .symbol .keymethods,
+pre .lisp .keyword,
+pre .tex .special,
+pre .input_number {
+  color: #990073
+}
+
+pre .builtin,
+pre .built_in,
+pre .lisp .title {
+  color: #0086b3
+}
+
+pre .preprocessor,
+pre .pi,
+pre .doctype,
+pre .shebang,
+pre .cdata {
+  color: #999;
+  font-weight: bold
+}
+
+pre .deletion {
+  background: #fdd
+}
+
+pre .addition {
+  background: #dfd
+}
+
+pre .diff .change {
+  background: #0086b3
+}
+
+pre .chunk {
+  color: #aaa
+}
+
+pre .tex .formula {
+  opacity: 0.5;
+}
+
+/* Responsive CSS */
+/* Responsive CSS */
+@media screen and (max-width: 768px){
+	
+}
+@media screen and (max-width: 480px){
+	html { font-size:100%; } 
+	nav.site-navigation{
+		margin-top: 5px;
+	}
+	header h1{
+		font-size: 2.429rem;
+	}
+	.post{
+		margin-bottom: 25px;
+	}
+	.title{
+		font-size: 1.429rem;
+		margin:0 0 5px 0;
+	}
+	.content{
+		margin-top: 5px;
+		padding:0;
+	}
+	.content p{
+		font-size: 1.286rem
+	}
+	.tags li{
+		margin: 5px 0 3px 0;
+		padding:2px 4px;
+	}
+	.tags li a{
+		font-size: 0.6429rem;
+	}
+}
