@@ -1,6 +1,5 @@
 ![TindrLabs](http://tindrlabs.com/img/logo.png)
-Wardrobe CMS Themes from TindrLabs.com
-===============
+## Wardrobe CMS Themes from TindrLabs.com
 
 Themes designed for the Wardrobe CMS system. Features of the themes and installation instructions are included with each theme.
 
