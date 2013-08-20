@@ -7,7 +7,7 @@
 @section('content')
 
 <div class="row post">
-	<div class="col-offset-2 col-lg-8">
+	<div class="col-md-offset-2 col-md-8">
 		<h2 class="title">{{ $post->title }}</h2>
 		<div class="date text-muted">{{ date("M/d/Y", strtotime($post->publish_date)) }}</div>
 		<div class="content">
