@@ -14,16 +14,3 @@
 		</ul>
 	</div>
 </div>
-
-<!--
-<div class="row post">
-	<div class="col-offset-2 col-lg-8">
-		<h2 class="title"><a href="">Announcing the Launch of TindrLabs</a></h2>
-		<div class="date text-muted">Aug/13/2013</div>
-		<div class="content">
-			<p>Hello from Colorado!</p>
-			<p>Tindrlabs is a Design, UX and Development lab located somewhere between Denver and Boulder Colorado.</p>
-		</div>
-	</div>
-</div>
--->
