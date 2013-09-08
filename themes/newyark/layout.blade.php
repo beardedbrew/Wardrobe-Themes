@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{{ site_title() }}</title>
-	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
 	<link href="{{ url(theme_path('css/style.css')) }}" rel="stylesheet" media="screen">
 </head>
 <body>
