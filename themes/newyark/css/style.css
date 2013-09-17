@@ -69,11 +69,15 @@ nav.site-navigation li a:hover{
 	color:#000;
 }
 .content{
-	padding:20px 0;
-}
-.content p{
 	font-size: 20px;
 	line-height: 1.5;
+	padding:20px 0;
+}
+.content ul{
+	margin-bottom: 25px;
+}
+.content p{
+	padding-bottom: 20px;
 }
 .tags{
 	margin:0;
